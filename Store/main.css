@@ -1,0 +1,137 @@
+/*common elements */
+body {
+    background-size: 100% 100%;
+    background: linear-gradient(#3494e6
+   , #ec6ead);
+   margin: 0;
+}
+
+
+/*header */
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url(https://ae01.alicdn.com/kf/Hd74ba7c542214621abe7929b74d5e6dbg.jpg);
+    height: 600px;
+    padding: inherit;
+    margin: 0 0 0em;
+    background-size:length ;
+}
+
+header h1 {
+    color:orange;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 0;
+}
+/*Nav bar */
+#Icons {
+  display:inline-block;
+  float: right;
+  margin: 1em;
+}
+input#searchKicks {
+width:250px;
+height: 25px;
+}
+
+li.acctNav {
+    margin: 1em;
+}
+nav li {
+    display: inline-block;
+    margin: 0;
+}
+
+nav#support-1 {
+    top: 450px;
+    position:relative ;
+    float: right;
+    right: -650px;
+}
+ul#support-2 li {
+margin-left: 30px;
+}
+
+/* Side bar*/
+section#sidebar {
+    width:200px;
+    float: left;
+    display: block;
+    position: relative;
+    border:2px solid #ec6ead;
+    background-color: black;
+    padding: 1px;
+    color:  #ec6ead;
+    text-shadow: 1px 1px 0px white;
+}
+
+/*Main Section */
+section#Main-1 {
+    display: inline-block;
+}
+    
+
+ div.mainBody {
+    float: right;
+    position: relative;
+    border: 2px solid #ec6ead;
+    background-color:black;
+    margin-right: 4em;
+    margin-left: 4em;
+    color:  #ec6ead;
+    text-shadow: 1px 1px 0px white;
+}
+
+p#fav-Shoes {
+    width: 300px;
+    font-size: 1em;
+}
+
+#BballVideo {
+    display: inline-block;
+    
+}
+
+.BballVideo-1 {
+    position: relative;
+    padding-left: 25em;
+}
+
+p#funVideo {
+font-size: 30px;
+font-style: oblique;
+color:deeppink;
+text-shadow: 2px 2px 2px black;
+text-align: center;
+}
+#interview {
+    text-align: center;
+    display: inline-block;
+    margin-left: 300px;
+}
+.funPics {
+    display: inline-block;
+    
+}
+.job {
+   height: 40px;
+   align-items: center;
+}
+#interview h1 {
+    text-align: center;
+}
+
+/*Footer */
+footer {
+    background-color: lightgray;
+    color: black;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 1em;
+    
+}
+
